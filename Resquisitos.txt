@@ -1,0 +1,6 @@
+Base de datos
+Usuario:Sebastian
+Contraseña:xxx1234
+Inicio de sesion (Abrir archivo Pagina.php)
+Usuario:PValdez
+Contraseña:xxx123
